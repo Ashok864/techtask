@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techtask/static/css/main.9cb84dfd.css",
+    "main.js": "/techtask/static/js/main.e03e095e.js",
+    "static/js/787.ec704a7a.chunk.js": "/techtask/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/techtask/index.html",
+    "main.9cb84dfd.css.map": "/techtask/static/css/main.9cb84dfd.css.map",
+    "main.e03e095e.js.map": "/techtask/static/js/main.e03e095e.js.map",
+    "787.ec704a7a.chunk.js.map": "/techtask/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb84dfd.css",
+    "static/js/main.e03e095e.js"
+  ]
+}
